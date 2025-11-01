@@ -16,4 +16,4 @@ Submission Format: CSV with columns ID and is_correct
 ### 🧑‍💻 Team
 Siya Jain sj3439@nyu.edu
 
-Zihao Li david79516172@gmail.com
+Zihao Li zl2946@nyu.edu
