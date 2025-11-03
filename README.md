@@ -17,3 +17,5 @@ Submission Format: CSV with columns ID and is_correct
 Siya Jain sj3439@nyu.edu
 
 Zihao Li zl2946@nyu.edu
+
+Also, the googledrive.txt have the link to the model.
